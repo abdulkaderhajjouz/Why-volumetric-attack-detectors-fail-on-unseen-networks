@@ -1,0 +1,15 @@
+,DCI,mean_|AUROC-0.5|
+log_dur,0.5,0.119
+log_fpk,0.0,0.124
+log_bpk,0.5,0.14
+log_fby,0.5,0.09
+log_bby,0.0,0.133
+log_fsize,0.0,0.115
+log_bsize,0.0,0.131
+log_pps,1.0,0.157
+log_bps,1.0,0.142
+pk_asym,0.5,0.158
+by_asym,0.0,0.135
+no_resp,0.5,0.14
+is_tcp,0.5,0.141
+is_udp,1.0,0.126

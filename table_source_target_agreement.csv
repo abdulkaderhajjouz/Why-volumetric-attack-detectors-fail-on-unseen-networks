@@ -1,0 +1,5 @@
+target,direction_agreement,signature_correlation
+UNSW,0.545,0.195
+BOTIOT,0.615,0.426
+TONIOT,0.273,-0.335
+CIC17,0.615,0.253

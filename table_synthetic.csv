@@ -1,0 +1,9 @@
+,test_auroc,test_auroc,shortcut_split_share,shortcut_split_share
+,mean,std,mean,std
+model,,,,
+LightGBM,0.108,0.013,,
+era_dir,0.422,0.017,0.308,0.017
+era_mean,0.087,0.025,0.558,0.075
+era_min,0.082,0.012,0.64,0.054
+pooled,0.416,0.016,0.352,0.025
+slweg,0.756,0.006,0.044,0.028
